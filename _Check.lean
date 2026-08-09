@@ -1,4 +1,9 @@
 import Certificate
-#check @three_cos_witness_gt_pi_div_four
+#check @θstar_lt_of_F_pos
+#check @cos_two_mul_sin_sq
+#check @sin_witness_lt
+#check @F_at_witness
+#check @θstar_lt_witness
 #check @min_g_gt_witness
+#check @three_cos_witness_gt_pi_div_four
 #check @min_g_gt_pi_div_four

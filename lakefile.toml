@@ -17,4 +17,4 @@ rev = "v4.33.0-rc2"
 [[lean_lib]]
 name = "RangeNarrow"
 srcDir = "."
-rroots = ["MorgansArcFunction", "GFunction", "Minimiser", "MinimumValue", "Certificate"]
+roots = ["MorgansArcFunction", "GFunction", "Minimiser", "MinimumValue", "Certificate"]
